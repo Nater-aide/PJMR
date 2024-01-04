@@ -1,6 +1,6 @@
 # PJMR
 ## Report
-Reporting details(https://github.com/Nater-aide/PMAT/blob/main/Notes/reporting.md)  
+[Reporting details](https://github.com/Nater-aide/PMAT/blob/main/Notes/reporting.md)  
 
 ## Basic static anaylsis
 [Hashing](https://github.com/Nater-aide/PMAT/blob/main/Notes/hashing.md)  
