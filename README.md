@@ -10,3 +10,4 @@
 [Capa](https://github.com/Nater-aide/PJMR/blob/main/Notes/Capa.md)  
 
 ## Basic Dynamic Analysis
+[Detonation](https://github.com/Nater-aide/PJMR/blob/main/Notes/Detonation.md)  
