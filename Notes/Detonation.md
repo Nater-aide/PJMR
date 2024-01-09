@@ -10,3 +10,4 @@ screenshot the packet(s) that are located
 What to look for in wireshark  
 1. detonate file
 2. wireshark search query -- ```http.request.full_uri contains (info to search)```
+3. Search under Hypertext transfer protocol to locate any URLs
