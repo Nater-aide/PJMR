@@ -11,3 +11,7 @@ Items to gather
 - Windows API calls. Example DownloadforURL, InternetOpenURLA, ShellExec
 
 - ### Basic Dynamic Analysis
+
+
+## Malware classifications
+1. Dropper - DownloadFromURL
