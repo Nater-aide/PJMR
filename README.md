@@ -12,3 +12,4 @@
 ## Basic Dynamic Analysis
 [Detonation](https://github.com/Nater-aide/PJMR/blob/main/Notes/Detonation.md)  
 [ProcMon](https://github.com/Nater-aide/PJMR/blob/main/Notes/Procmon.md)  
+[TCP View](https://github.com/Nater-aide/PJMR/blob/main/Notes/TCPview.md)  
